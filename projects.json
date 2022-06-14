@@ -3,12 +3,12 @@
     "name": "Find your doggo!",
     "live": "https://folksoul91.github.io/SEI_Project-1/",
     "git": "https://github.com/folksoul91/SEI_Project-1",
-    "image": "https://github.com/folksoul91/SEI_Project-1/blob/master/Image/Screen%20Shot%202022-05-12%20at%2010.16.39%20PM.png"
+    "image": "https://github.com/folksoul91/SEI_Project-1/raw/master/Image/Screen%20Shot%202022-05-12%20at%2010.16.39%20PM.png"
   },
   {
     "name": "foodie",
     "live": "https://recipe-blog-awesome.herokuapp.com/",
     "git": "https://github.com/folksoul91/foodie",
-    "image": "https://github.com/folksoul91/foodie/blob/master/public/img/Frontpage.png"
+    "image": "https://github.com/folksoul91/foodie/raw/master/public/img/Recipes.png"
   }
 ]
